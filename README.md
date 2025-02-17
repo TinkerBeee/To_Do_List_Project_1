@@ -44,7 +44,7 @@ A simple 'To-Do' List application that allows users to add a new task(s), delete
                 2. Press the 'Enter' key on keypad
                 3. Current tasks that have been previously added will be displayed in a numbered list. 
                        ** The tasks will be organized in the order they were added. (First task being #1.) 
-                4. If there are no tasks on the list, you'll get an ERROR message
+                       ** If there are no tasks on the list, you'll get an ERROR message
                
     - To REMOVE/DELETE a task:
                 1. Input the number '3' using keypad
